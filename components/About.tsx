@@ -11,7 +11,7 @@ const About: React.FC = () => {
     >
       <div className="flex flex-col  justify-around flex-wrap items-center   max-w-[900px]">
         <h1 className="text-white font-semibold text-6xl"> Who am I ?</h1>
-        <h4 className="text-white font-semibold text-3xl pt-10"> SNEKALATHA MANI RAJENDHIRAN</h4>
+        <h4 className="text-white font-semibold text-3xl pt-10 flex justify-center"><center> SNEKALATHA MANI RAJENDHIRAN </center></h4>
 
         <p className=" tracking-[0.5em] text-transparent font-light pb-5 pt-5  bg-clip-text bg-gradient-to-r from-teal-700 to-cyan-500 "
            style={{textAlign:"center"}}>
