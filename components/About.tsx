@@ -15,11 +15,11 @@ const About: React.FC = () => {
 
         <p className=" tracking-[0.5em] text-transparent font-light pb-5 pt-5  bg-clip-text bg-gradient-to-r from-teal-700 to-cyan-500 "
            style={{textAlign:"center"}}>
-          A true tech enthusiast with a <br /> "LET ME TRY, I CAN MAKE THAT POSSIBLE" <br /> attitude.
+          A true tech enthusiast with a <br /> &quot; LET ME TRY, I CAN MAKE THAT POSSIBLE &quot; <br /> attitude.
         </p>
         <p className="text-gray-300 text-center ">
           Passionate Frontend Developer and SEO enthusiast with a strong foundation in web development and 
-          digital marketing. Over the years, I've had the privilege of honing my skills and gaining valuable
+          digital marketing. Over the years, I&apos;ve had the privilege of honing my skills and gaining valuable
           experience through various internships and projects.   </p>
         <p className="text-gray-300 text-center ">A digital polyglot fluent in HTML, CSS, Typescript, React, Next and constantly learning. </p>
         <p className="text-gray-300 text-center ">I am driven by the desire to turn ideas into functional applications, stimulating user experience, pushing the boundaries of human imagination.
